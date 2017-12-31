@@ -1,0 +1,1 @@
+process.stdout.write("Hello stdout\n\n\n");
